@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MyCountryProfile</string>
+    <string name="bangladeshButton">Bangladesh</string>
+    <string name="indiaButton">India</string>
+    <string name="pakistaButton">Pakistan</string>
+
+    <string name="bangladeshdetails">
+        bangladdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddd
+        dddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddddddddddddd
+        dddddddddddddddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddddddddddddddddd
+
+    </string>
+    <string name="indiadetails">
+         bangladdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddd
+        dddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddddddddddddd
+        dddddddddddddddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddddddddddddddddd
+
+    </string>
+    <string name="pakistandetails">
+         bangladdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddd
+        dddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddddddddddddd
+        dddddddddddddddddddddddddddddddddddddddddddddd
+        ddddddddddddddddddddddddddddddddddddddddddddddddddd
+
+    </string>
+
+</resources>

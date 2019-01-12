@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#29ff22"
+    android:padding="5dp"
+    tools:context="com.example.shahajalalsamrat.mycountryprofile.CountryDetails">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:src="@mipmap/ic_launcher"
+            android:id="@+id/imageviewid"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:scaleType="fitXY"
+
+            />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/textviewid"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textIsSelectable="true"
+
+
+            />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
